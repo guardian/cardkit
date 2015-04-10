@@ -1,0 +1,6 @@
+{
+  "name": "cardkit",
+  "static": {
+    "/": "dist"
+  }
+}
